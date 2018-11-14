@@ -16,7 +16,7 @@
 	"Id": "842fb550-07cb-42d1-9a9f-c55789efed57",
 	"Title": "Welcome to Excel",
 	"Image": "images/playlists/welcome_to_excel.png",
-	"Level": "Beginner",
+	"Level": "Beginner111",
 	"Audience": "End Users",
 	"Technology": "Excel",
 	"Subject": "",
@@ -27,7 +27,7 @@
 },
 {
 	"Id": "7450f58a-517f-48ae-bace-248346e52275",
-	"Title": "Rows & columns",
+	"Title": "Rows & columns      11",
 	"Image": "images/playlists/rows_and_columns.png",
 	"Level": "Beginner",
 	"Audience": "End Users",
