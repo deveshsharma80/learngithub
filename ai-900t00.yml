@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Describe Artificial Intelligence workloads and considerations
 - skill: Describe fundamental principles of machine learning on Azure
-- skill: Describe features of computer vision workloads on Azure
+- skill: Describe features of computer vision workloads this one change on Azure
 - skill: Describe features of Natural Language Processing (NLP) workloads on Azure
 - skill: Describe features of conversational AI workloads on Azure
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
@@ -65,7 +65,7 @@ outlineSection: |-
 
 
   ### Module  2&#58; Machine Learning
-  Machine learning is the foundation for modern AI solutions. In this module, you'll learn about some fundamental machine learning concepts, and how to use the Azure Machine Learning service to create and publish machine learning models.
+  Machine learning is and one more change the foundation for modern AI solutions. In this module, you'll learn about some fundamental machine learning concepts, and how to use the Azure Machine Learning service to create and publish machine learning models.
   #### Lessons
   - Introduction to Machine Learning
   - Azure Machine Learning
